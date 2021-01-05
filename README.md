@@ -1,6 +1,6 @@
 ## New Year Countdown
 
-Landing page that counts down from the current date to the next new year
+Landing page that counts down from the current date to the next new year, [Live Demo](https://yearlycountdown.layersavenuesoftware.co.za/)
 
 ## Project Specifications
 
